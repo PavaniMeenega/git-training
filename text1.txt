@@ -1,3 +1,4 @@
+Adding lines in firsts branch files
 This is first line in text1 file.
 This in new line 
 editing for new Feature 
@@ -10,3 +11,5 @@ rttfcty
 #######
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 editing in master
+hevwcecwcuiec
+dhd2d
